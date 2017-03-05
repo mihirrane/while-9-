@@ -1,2 +1,2 @@
-# while-9-
+# while-9
 Group of 9 people
