@@ -4,7 +4,7 @@
 
 #back-img{
      background: url(back-logo.png);
-    position:fixed;
+    position:absolute;
     margin-top: 50px;
  margin-left:300px;
     background-repeat: no-repeat;
@@ -62,4 +62,9 @@
     .col-10 {width: 83.33%;}
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
+}
+.about{
+    background-color: bisque;
+    margin-top: 700px;
+    margin-right: 500px;
 }
